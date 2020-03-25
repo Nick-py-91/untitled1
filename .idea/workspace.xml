@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79c1aabc-9186-47a4-9a75-dd9a1a0d18b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYsv4F1XynS6bvH3a8vMMAmqhk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Telegram Desktop/ДЗ_2/server.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\PycharmProjects\untitled1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79c1aabc-9186-47a4-9a75-dd9a1a0d18b1" name="Default Changelist" comment="" />
+      <created>1585027588044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585027588044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="146" key="#client" timestamp="1585078237494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="146" key="#client/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1585078237494" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585072437485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1585072437485" />
+    <state x="723" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585121692688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1585121692688" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585121760556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1585121760556" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585113648621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1585113648621" />
+  </component>
+</project>
